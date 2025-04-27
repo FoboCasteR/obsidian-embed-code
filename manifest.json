@@ -1,0 +1,11 @@
+{
+	"id": "embed-code",
+	"name": "Embed Code",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Render embedded files (like JSON, CSV, etc.) as syntax-highlighted code blocks in reading view.",
+	"author": "Eugene Khutko",
+	"authorUrl": "https://github.com/FoboCasteR",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
